@@ -1,0 +1,47 @@
+
+body{
+  font-family: arial;
+  font-weight: bold;
+  margin: 0px;
+
+
+}
+
+.topnav{
+  color: white;
+
+
+}
+
+.top{
+  background-color: #ff5c33;
+  color: white;
+
+}
+
+.middle{
+
+
+}
+
+.bottom{
+  background-color: #ff5c33;
+  color: white;
+
+}
+ul {list-style-type: none;}
+li {
+    float: left;}
+
+li a {
+        display: block;
+        text-align: bottom;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+.footer{
+
+  display: inline-block;
+
+}
